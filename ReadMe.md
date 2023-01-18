@@ -1,5 +1,11 @@
+<!-- ![](https://komarev.com/ghpvc/?username=jahazieljbh&color=blueviolet) -->
+[![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%jahazieljbh&count_bg=%234A4B49&title_bg=%235E21A4&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://github.com/)
+
 <h1 align="center">Hola 👋, soy Jahaziel</h1>
-<h3 align="center">I’m software engineer 🖥️</h3>
+<h3 align="center">Ingeniero en Softwarer 🖥️</h3>
+
+<!-- DESCRIPTION -->
+He creado varios proyectos web utilizando Java, JavaScript, TypeScript y también implementé tecnologías como Angular, React, Node.js y Spring Framework. También un poco del uso de SQL y Linux. Mi objetivo es crecer como profesional, llegar al nivel semi senior y desempeñar un rol en el desarrollo de software para crear aplicaciones de alta calidad. El trabajo en equipo, la comunicación, la resolución de problemas y el análisis de los requisitos a detalles son habilidades que me permitiran hacer un excelente trabajo.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahazielbh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jbh_jahaziel)
