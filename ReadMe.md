@@ -14,14 +14,6 @@ I’m software engineer 🖥️<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jahazieljbh&theme=flat&no-frame=true&no-bg=true&margin-w=4)
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@jbh_jahaziel)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jahazieljbh&icon=2&color=1)](https://visitcount.itsvg.in)
 
