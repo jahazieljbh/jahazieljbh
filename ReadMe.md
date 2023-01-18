@@ -5,10 +5,10 @@
 <h3 align="center">Ingeniero en Softwarer 🖥️</h3>
 
 <!-- DESCRIPTION -->
-He creado varios proyectos web utilizando Java, JavaScript, TypeScript y también implementé tecnologías como Angular, React, Node.js y Spring Framework. También domino el uso de SQL y Linux a nivel Intermedio. Mi objetivo es crecer como profesional, llegar al nivel semi senior y desempeñar un rol en el desarrollo de software para crear aplicaciones de calidad alta. El trabajo en equipo, la comunicación, la resolución de problemas y el análisis de los requisitos a detalle son habilidades que me permitiran hacer un excelente trabajo.
+He creado varios proyectos web utilizando Java, JavaScript, TypeScript y también implementé tecnologías como Angular, React, Node.js y Spring Framework. También tengo conocimientos intermedio en el uso de SQL y Linux a nivel. Mi objetivo es crecer como profesional, llegar al nivel semi senior y desempeñar un rol en el desarrollo de software para crear aplicaciones de calidad alta. El trabajo en equipo, la comunicación, la resolución de problemas y el análisis de los requisitos a detalle son habilidades que me permitiran hacer un excelente trabajo.
 
 ## 🚀 My projects
-_Hacer proyectos me ayuda a seguir aprendiendo sobre tecnologias._
+_El realizar proyectos me ayuda a seguir aprendiendo sobre nuevas tecnologias._</br>
 _Algunos de mis proyectos;_
 
 - [Construcción de plataforma blog con Reat](https://github.com/jahazielBH/MyBlogProject-React)
