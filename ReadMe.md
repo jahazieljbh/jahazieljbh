@@ -5,7 +5,7 @@
 <h3 align="center">Ingeniero en Softwarer 🖥️</h3>
 
 <!-- DESCRIPTION -->
-He creado varios proyectos web utilizando Java, JavaScript, TypeScript y también implementé tecnologías como Angular, React, Node.js y Spring Framework. También un poco del uso de SQL y Linux. Mi objetivo es crecer como profesional, llegar al nivel semi senior y desempeñar un rol en el desarrollo de software para crear aplicaciones de alta calidad. El trabajo en equipo, la comunicación, la resolución de problemas y el análisis de los requisitos a detalles son habilidades que me permitiran hacer un excelente trabajo.
+He creado varios proyectos web utilizando Java, JavaScript, TypeScript y también implementé tecnologías como Angular, React, Node.js y Spring Framework. También domino el uso de SQL y Linux a nivel Intermedio. Mi objetivo es crecer como profesional, llegar al nivel semi senior y desempeñar un rol en el desarrollo de software para crear aplicaciones de calidad alta. El trabajo en equipo, la comunicación, la resolución de problemas y el análisis de los requisitos a detalle son habilidades que me permitiran hacer un excelente trabajo.
 
 ## 🚀 My projects
 _Hacer proyectos me ayuda a seguir aprendiendo sobre tecnologias._
@@ -24,6 +24,4 @@ _Algunos de mis proyectos;_
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jahazielbh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jbh_jahaziel)
-[![Gmail](https://img.shields.io/badge/Gmail-%23DD0031.svg?logo=gmail&logoColor=white)](https://twitter.com/@jbh_jahaziel)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Gmail](https://img.shields.io/badge/Gmail-%23DD0031.svg?logo=gmail&logoColor=white)](mailto:jahaziel.hernandez.jbh@gmail.com)
