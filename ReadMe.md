@@ -5,7 +5,7 @@
 <h3 align="center">Ingeniero en Softwarer 🖥️</h3>
 
 <!-- DESCRIPTION -->
-Soy un ingeniero de software motivado y dedicado, con una formación sólida en tecnologías de desarrollo de software y una amplia experiencia en la creación de aplicaciones web y móviles. Tengo habilidades basicas en lenguajes como Java, Python, C++ y JavaScript, así como en frameworks como Angular, React, Node.js y Spring. Además, tengo un conocimiento profundo de bases de datos relacionales y no relacionales y experiencia en el uso de herramientas de DevOps.
+Soy un ingeniero de software motivado y dedicado, con una formación sólida en tecnologías de desarrollo de software y una amplia experiencia en la creación de aplicaciones web y móviles. Tengo habilidades intermedias en lenguajes como Java, Python, C++ y JavaScript, así como en frameworks como Angular, React, Node.js y Spring. Además, tengo un conocimiento profundo de bases de datos relacionales y no relacionales y experiencia en el uso de herramientas de DevOps.
 
 Me destaco por mi habilidad para trabajar en equipo, mi enfoque en la resolución de problemas y mi capacidad para analizar los requisitos de los clientes y convertirlos en soluciones eficaces. Soy una persona adaptable y aprendo rápidamente nuevas tecnologías y metodologías. Mi objetivo es continuar creciendo profesionalmente y contribuir al desarrollo de software de alta calidad que resuelva los desafíos reales de los clientes.
 
