@@ -14,7 +14,7 @@ _El realizar proyectos me ayuda a seguir aprendiendo sobre nuevas tecnologias._<
 _Algunos de mis proyectos;_
 
 - [Construcción de plataforma blog con React](https://github.com/jahazielBH/MyBlogProject-React)
-  <p align="center"> <img src="https://media.discordapp.net/attachments/1077747222072004690/1094017090161233960/Blog.jpg?width=804&height=452"> <p/>
+  <p align="center"> <img src="https://media.discordapp.net/attachments/1077747222072004690/1095080909562187836/Blog.png"> <p/>
 - [Creación de una API para E-commerce usando Node.js y MongoDB](https://github.com/jahazieljbh/eCommerce-API/tree/dev)
 
 ## 🛠️ Tecnologías y herramientas:
