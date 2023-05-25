@@ -16,6 +16,7 @@ _Algunos de mis proyectos;_
 - [Construcción de plataforma blog con React](https://github.com/jahazielBH/MyBlogProject-React)
   <p align="center"> <img src="https://media.discordapp.net/attachments/1077747221640003681/1097668207533371474/Web_Blog_Project.png"> <p/>
 - [Creación de una API para E-commerce usando Node.js y MongoDB](https://github.com/jahazieljbh/eCommerce-API/tree/dev)
+- [Re-Creación de un Simple Blog Design](https://github.com/jahazieljbh/simple-blog-design)
 
 ## 🛠️ Tecnologías y herramientas:
 <p align="center">
