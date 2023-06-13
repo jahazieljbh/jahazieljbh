@@ -13,10 +13,39 @@ Me destaco por mi habilidad para trabajar en equipo, mi enfoque en la resolució
 _El realizar proyectos me ayuda a seguir aprendiendo sobre nuevas tecnologias._</br>
 _Algunos de mis proyectos;_
 
-- [Construcción de plataforma blog con React](https://github.com/jahazielBH/MyBlogProject-React)
-  <p align="center"> <img src="https://media.discordapp.net/attachments/1077747221640003681/1097668207533371474/Web_Blog_Project.png"> <p/>
-- [Creación de una API para E-commerce usando Node.js y MongoDB](https://github.com/jahazieljbh/eCommerce-API/tree/dev)
-- [Re-Creación de un Simple Blog Design](https://github.com/jahazieljbh/simple-blog-design)
+<h1 align="center">Construcción de plataforma blog con React</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1077747221640003681/1097668207533371474/Web_Blog_Project.png"><p/>
+<div align="center">
+  <a href="https://blog-2bcc6.firebaseapp.com" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazielBH/MyBlogProject-React" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+</div>
+
+<h1 align="center">Creación de una API para E-commerce usando Node.js y MongoDB</h1>
+<div align="center">
+  <a href="https://blog-2bcc6.firebaseapp.com" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazieljbh/eCommerce-API/tree/dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+</div>
+
+<h1 align="center">Re-Creatin a Simple Blog Design</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1077747221640003681/1111412200129708153/writings.dev.png?width=400&height=700"><p/>
+<div align="center">
+  <a href="https://jahaziel-simple-blog.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazieljbh/simple-blog-design" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+</div>
+
+<h1 align="center">Timezone</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1077747221640003681/1118311115298963569/timezone.png?width=888&height=452"><p/>
+<div align="center">
+  <a href="https://timezone-jahazieljbh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazieljbh/timezone" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+</div>
+
+<h1 align="center">Consume a GitHub API</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1077747221640003681/1118310395661254706/consume_a_github_api.png?width=882&height=451"><p/>
+<div align="center">
+  <a href="https://consuming-github-api.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazieljbh/consume-a-github-s-api" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+</div>
 
 ## 🛠️ Tecnologías y herramientas:
 <p align="center">
