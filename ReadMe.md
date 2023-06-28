@@ -21,9 +21,10 @@ _Algunos de mis proyectos;_
 </div>
 
 <h1 align="center">Creación de una API para E-commerce usando Node.js y MongoDB</h1>
+<p align="center"><img src="https://media.discordapp.net/attachments/1077747221640003679/1123415046362513499/ecommerceapi.png"><p/>
 <div align="center">
-  <a href="https://blog-2bcc6.firebaseapp.com" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
-  <a href="https://github.com/jahazieljbh/eCommerce-API/tree/dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
+  <a href="https://e-commerce-api-agr5.onrender.com/api/v1/doc" target="_blank"><img src="https://img.shields.io/badge/Live-Visit%20Website-brightgreen" alt="Live"></a>
+  <a href="https://github.com/jahazieljbh/eCommerce-API" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repo-blue" alt="GitHub Repo"></a>
 </div>
 
 <h1 align="center">Re-Creatin a Simple Blog Design</h1>
